@@ -1,0 +1,2 @@
+date /t
+echo Tamamdir
